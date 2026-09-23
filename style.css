@@ -15,7 +15,7 @@ z-index: 1000;
     padding: 0;
 }
 
-.navbar ul li{
+.navbar li{
     display: inline;
     margin: 0 1em;
 }
